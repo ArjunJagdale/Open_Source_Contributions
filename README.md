@@ -1,6 +1,4 @@
-# Contribution 1
-
-## 🧾 Contribution Summary: Fixing Duplicate Sidebar Entry in MLflow GenAI Docs
+# Contribution 1: Fixing Duplicate Sidebar Entry in MLflow GenAI Docs
 
 ### 📂 **File Access & Purpose**
 
