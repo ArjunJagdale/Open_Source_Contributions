@@ -78,10 +78,6 @@
 
 ---
 
-Here’s the **Contribution 2** write-up, in the same structured and professional format:
-
----
-
 # Contribution 2: Clarifying `mlflow.log_artifacts()` Behavior in Tracking API Docs
 
 ### 📂 **File Access & Purpose**
