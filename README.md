@@ -134,7 +134,7 @@
 ### ✅ **Pull Request Details**
 
 * **Title:** `Clarify: log_artifacts requires a directory, not a file`
-* **PR Link:** [#16256](https://github.com/mlflow/mlflow/pull/16256)
+* **PR Link:** [#16256](https://github.com/mlflow/mlflow/pull/16255)
 * **Labels/Areas Touched:**
 
   * `area/docs`
