@@ -17,8 +17,9 @@ As someone deeply passionate about building intelligent systems and supporting o
 
 ## 🔍 Libraries & Frameworks Contributed To
 
-1. **MLflow** – Machine learning lifecycle management
-2. _More coming soon..._ 
+1. **MLflow** – Machine learning lifecycle management.
+2. **Huggingface** - The AI community building the future.
+3. _More coming soon..._ 
 
 ---
 
