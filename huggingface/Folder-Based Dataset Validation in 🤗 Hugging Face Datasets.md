@@ -111,7 +111,11 @@ def _info(self):
 ### 🧑‍💻 Contributor Info
 
 **Name:** Arjun Jagdale
+
 **GitHub:** [@ArjunJagdale](https://github.com/ArjunJagdale)
+
 **LinkedIn:** [linkedin.com/in/arjun-jagdale](https://www.linkedin.com/in/arjun-jagdale/)
+
 **Contribution Style:** Fully GitHub-based editing (via fork + UI, no local clone)
+
 ---
