@@ -2,6 +2,13 @@
 
 ### 🧠 Context: Bug in `load_dataset("audiofolder")` without `data_dir`
 
+✅ Merged into Hugging Face's main branch
+🧠 Approved by a core maintainer (@lhoestq)
+📦 Included in the next release
+💬 Endorsed with a simple but powerful: lgtm :) ("Looks good to me")
+🗓️ Merged: June 18, 2025  
+🚀 Status: Included in next patch release  
+
 When loading folder-based datasets like `audiofolder` using:
 
 ```python
