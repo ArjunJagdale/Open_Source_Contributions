@@ -1,9 +1,3 @@
-Your current README section is **already strong** — structured, technical, and easy to skim. But if your goal is to make it **even more impressive to recruiters**, we can expand each point slightly to add *context, scale, and outcome*. This helps convey not just *what* you did, but also *why it mattered*.
-
-Here’s a slightly more **elaborated version**, keeping the same tone and flow:
-
----
-
 ## 🧠 Open Source Contributions — Hugging Face
 
 Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-viewer`) with production-level code enhancements, usability improvements, and critical bug fixes. All contributions were reviewed and merged by core maintainers like [@lhoestq](https://github.com/lhoestq) and [@severo](https://github.com/severo), impacting widely used tooling in the ML community.
