@@ -1,6 +1,6 @@
 ## 🧠 Open Source Contributions — Hugging Face
 
-Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-viewer`) with production-level code enhancements, usability improvements, and critical bug fixes. All contributions were reviewed and merged by core maintainers like [@lhoestq](https://github.com/lhoestq) and [@severo](https://github.com/severo), impacting widely used tooling in the ML community.
+Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-viewer`) with production-level code enhancements, usability improvements, and critical bug fixes. All contributions were reviewed and merged by core maintainers, impacting widely used tooling in the ML community.
 
 ---
 
