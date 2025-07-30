@@ -79,6 +79,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 **6. Add support for Date features in Croissant schema**
 
 [Add support for Date features in Croissant schema #3223](https://github.com/huggingface/dataset-viewer/pull/3223)
+
 🔹 This PR adds support for datasets.features.Date in the Croissant schema generation.
 
 🔹 Fields like Date, UTCDate, and UTCTime (e.g., in Lichess/standard-chess-games) will now be correctly included in the generated spec.
