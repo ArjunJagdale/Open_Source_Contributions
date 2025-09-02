@@ -8,7 +8,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **1. Improve Documentation for Dataset APIs**
 
-[Fix misleading `add_column()` usage example in docstring (#7648)](https://github.com/huggingface/datasets/pull/7648)
+[![Fix misleading add_column() usage example in docstring](https://pr-req-io.vercel.app/api/badge?title=Fix%20misleading%20add_column()%20usage%20example%20in%20docstring&repo=huggingface%2Fdatasets&number=7648&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/datasets/pull/7648)
 
 🔹 Identified and corrected misleading docstrings for core methods like `add_column`, `select`, and `filter`, which return new datasets instead of modifying them in-place.
 
@@ -22,7 +22,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **2. Raise Explicit Error in Folder-Based Dataset Loader**
 
-[Raise error in FolderBasedBuilder when `data_dir` and `data_files` are missing (#7623)](https://github.com/huggingface/datasets/pull/7623)
+[![fix: raise error in FolderBasedBuilder when data_dir and data_files are missing ](https://pr-req-io.vercel.app/api/badge?title=fix%3A%20raise%20error%20in%20FolderBasedBuilder%20when%20data_dir%20and%20data_files%20are%20missing%20&repo=huggingface%2Fdatasets&number=7623&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/datasets/pull/7623)
 
 🔹 Solved a critical UX issue where calling `load_dataset("audiofolder")` without specifying `data_dir` led to unexpected behavior and long load times.
 
@@ -36,7 +36,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **3. Refactor Config Defaults to Avoid Shared Mutable State**
 
-[Replace `get_empty_str_list` with `.copy()` constants in config (#3219)](https://github.com/huggingface/dataset-viewer/pull/3219)
+[![refactor(config): replace get_empty_str_list with CONSTANT.copy in ParquetAndInfoConfig (#1522) ](https://pr-req-io.vercel.app/api/badge?title=refactor(config)%3A%20replace%20get_empty_str_list%20with%20CONSTANT.copy%20in%20ParquetAndInfoConfig%20(%231522)%20&repo=huggingface%2Fdataset-viewer&number=3219&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3219)
 
 🔹 Refactored internal `ParquetAndInfoConfig` logic to eliminate shared mutable defaults in dataclass fields.
 
@@ -50,7 +50,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **4. Add Unit Tests for Core Caching Utility**
 
-[Add unit tests for `get_previous_step_or_raise` (#3218)](https://github.com/huggingface/dataset-viewer/pull/3218)
+[![test: add unit tests for get_previous_step_or_raise (#1908) ](https://pr-req-io.vercel.app/api/badge?title=test%3A%20add%20unit%20tests%20for%20get_previous_step_or_raise%20(%231908)%20&repo=huggingface%2Fdataset-viewer&number=3218&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3218)
 
 🔹 Designed and implemented comprehensive tests for cache retrieval and error handling in `get_previous_step_or_raise`.
 
@@ -64,7 +64,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **5. Simplify Gated Dataset Setup using `HfApi.update_repo_settings`**
 
-[Refactor tests to use `update_repo_settings` from Hub client (#3206)](https://github.com/huggingface/dataset-viewer/pull/3206)
+[![refactor(tests): use HfApi.update_repo_settings to simplify gated dataset test setup ](https://pr-req-io.vercel.app/api/badge?title=refactor(tests)%3A%20use%20HfApi.update_repo_settings%20to%20simplify%20gated%20dataset%20test%20setup%20&repo=huggingface%2Fdataset-viewer&number=3206&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3206)
 
 🔹 Replaced legacy helper functions with Hugging Face Hub's official API for enabling gated dataset settings.
 
@@ -78,7 +78,7 @@ Contributed to Hugging Face's open-source ecosystem (`datasets` and `dataset-vie
 
 **6. Add support for Date features in Croissant schema**
 
-[Add support for Date features in Croissant schema #3223](https://github.com/huggingface/dataset-viewer/pull/3223)
+[![ Add support for Date features in Croissant schema](https://pr-req-io.vercel.app/api/badge?title=%20Add%20support%20for%20Date%20features%20in%20Croissant%20schema&repo=huggingface%2Fdataset-viewer&number=3223&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3223)
 
 🔹 This PR adds support for datasets.features.Date in the Croissant schema generation.
 
